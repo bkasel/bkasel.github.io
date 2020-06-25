@@ -5,3 +5,5 @@ Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer
 Uncle Ben said.
 
 > With great power comes great responsibilty!
+
+![](https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png)
