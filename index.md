@@ -4,6 +4,6 @@ Spider-Man is a fictional superhero created by writer-editor Stan Lee and writer
 
 ## Features
 
-- spider sense
-- super strength
-- web shooting
+* spider sense
+* super strength
+* web shooting
